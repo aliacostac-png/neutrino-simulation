@@ -1,0 +1,3000 @@
+Archivo: 0001.txt
+Timestamp: 2025-09-20 18:44:46-0300
+Neutrinos detectados: 10
+Archivo: 0002.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 5
+Archivo: 0003.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 9
+Archivo: 0004.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 5
+Archivo: 0005.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 8
+Archivo: 0006.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 10
+Archivo: 0007.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 2
+Archivo: 0008.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 1
+Archivo: 0009.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 9
+Archivo: 0010.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 6
+Archivo: 0011.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 10
+Archivo: 0012.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 10
+Archivo: 0013.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 1
+Archivo: 0014.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 0
+Archivo: 0015.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 2
+Archivo: 0016.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 8
+Archivo: 0017.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 1
+Archivo: 0018.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 6
+Archivo: 0019.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 5
+Archivo: 0020.txt
+Timestamp: 2025-09-20 18:44:47-0300
+Neutrinos detectados: 1
+Archivo: 0021.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 0
+Archivo: 0022.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 3
+Archivo: 0023.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 9
+Archivo: 0024.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 7
+Archivo: 0025.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 2
+Archivo: 0026.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 6
+Archivo: 0027.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 0
+Archivo: 0028.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 10
+Archivo: 0029.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 0
+Archivo: 0030.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 5
+Archivo: 0031.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 3
+Archivo: 0032.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 2
+Archivo: 0033.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 7
+Archivo: 0034.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 9
+Archivo: 0035.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 6
+Archivo: 0036.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 1
+Archivo: 0037.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 7
+Archivo: 0038.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 5
+Archivo: 0039.txt
+Timestamp: 2025-09-20 18:44:48-0300
+Neutrinos detectados: 3
+Archivo: 0040.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 2
+Archivo: 0041.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 9
+Archivo: 0042.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 8
+Archivo: 0043.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 7
+Archivo: 0044.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 5
+Archivo: 0045.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 2
+Archivo: 0046.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 1
+Archivo: 0047.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 7
+Archivo: 0048.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 10
+Archivo: 0049.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 10
+Archivo: 0050.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 1
+Archivo: 0051.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 5
+Archivo: 0052.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 4
+Archivo: 0053.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 6
+Archivo: 0054.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 2
+Archivo: 0055.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 10
+Archivo: 0056.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 8
+Archivo: 0057.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 1
+Archivo: 0058.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 2
+Archivo: 0059.txt
+Timestamp: 2025-09-20 18:44:49-0300
+Neutrinos detectados: 7
+Archivo: 0060.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 1
+Archivo: 0061.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 0
+Archivo: 0062.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 0
+Archivo: 0063.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 0
+Archivo: 0064.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 10
+Archivo: 0065.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 4
+Archivo: 0066.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 3
+Archivo: 0067.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 3
+Archivo: 0068.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 10
+Archivo: 0069.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 4
+Archivo: 0070.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 5
+Archivo: 0071.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 4
+Archivo: 0072.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 5
+Archivo: 0073.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 7
+Archivo: 0074.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 2
+Archivo: 0075.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 9
+Archivo: 0076.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 4
+Archivo: 0077.txt
+Timestamp: 2025-09-20 18:44:50-0300
+Neutrinos detectados: 3
+Archivo: 0078.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 2
+Archivo: 0079.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 1
+Archivo: 0080.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 1
+Archivo: 0081.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 7
+Archivo: 0082.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 5
+Archivo: 0083.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 10
+Archivo: 0084.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 5
+Archivo: 0085.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 10
+Archivo: 0086.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 1
+Archivo: 0087.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 7
+Archivo: 0088.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 1
+Archivo: 0089.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 4
+Archivo: 0090.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 7
+Archivo: 0091.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 0
+Archivo: 0092.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 7
+Archivo: 0093.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 0
+Archivo: 0094.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 8
+Archivo: 0095.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 1
+Archivo: 0096.txt
+Timestamp: 2025-09-20 18:44:51-0300
+Neutrinos detectados: 7
+Archivo: 0097.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 8
+Archivo: 0098.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 2
+Archivo: 0099.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 2
+Archivo: 0100.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 2
+Archivo: 0101.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 4
+Archivo: 0102.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 3
+Archivo: 0103.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 10
+Archivo: 0104.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 3
+Archivo: 0105.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 8
+Archivo: 0106.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 0
+Archivo: 0107.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 5
+Archivo: 0108.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 0
+Archivo: 0109.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 10
+Archivo: 0110.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 2
+Archivo: 0111.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 3
+Archivo: 0112.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 1
+Archivo: 0113.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 9
+Archivo: 0114.txt
+Timestamp: 2025-09-20 18:44:52-0300
+Neutrinos detectados: 2
+Archivo: 0115.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 2
+Archivo: 0116.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 9
+Archivo: 0117.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 4
+Archivo: 0118.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 1
+Archivo: 0119.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 9
+Archivo: 0120.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 1
+Archivo: 0121.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 6
+Archivo: 0122.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 7
+Archivo: 0123.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 6
+Archivo: 0124.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 7
+Archivo: 0125.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 5
+Archivo: 0126.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 3
+Archivo: 0127.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 7
+Archivo: 0128.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 4
+Archivo: 0129.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 3
+Archivo: 0130.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 1
+Archivo: 0131.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 1
+Archivo: 0132.txt
+Timestamp: 2025-09-20 18:44:53-0300
+Neutrinos detectados: 2
+Archivo: 0133.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 2
+Archivo: 0134.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 4
+Archivo: 0135.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 9
+Archivo: 0136.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 6
+Archivo: 0137.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 6
+Archivo: 0138.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 4
+Archivo: 0139.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 3
+Archivo: 0140.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 6
+Archivo: 0141.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 2
+Archivo: 0142.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 7
+Archivo: 0143.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 7
+Archivo: 0144.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 6
+Archivo: 0145.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 2
+Archivo: 0146.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 8
+Archivo: 0147.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 4
+Archivo: 0148.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 5
+Archivo: 0149.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 3
+Archivo: 0150.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 3
+Archivo: 0151.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 5
+Archivo: 0152.txt
+Timestamp: 2025-09-20 18:44:54-0300
+Neutrinos detectados: 1
+Archivo: 0153.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 5
+Archivo: 0154.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 3
+Archivo: 0155.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 5
+Archivo: 0156.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 4
+Archivo: 0157.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 2
+Archivo: 0158.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 4
+Archivo: 0159.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 3
+Archivo: 0160.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 8
+Archivo: 0161.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 3
+Archivo: 0162.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 2
+Archivo: 0163.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 8
+Archivo: 0164.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 9
+Archivo: 0165.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 8
+Archivo: 0166.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 9
+Archivo: 0167.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 2
+Archivo: 0168.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 8
+Archivo: 0169.txt
+Timestamp: 2025-09-20 18:44:55-0300
+Neutrinos detectados: 4
+Archivo: 0170.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 6
+Archivo: 0171.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 9
+Archivo: 0172.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 3
+Archivo: 0173.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 4
+Archivo: 0174.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 1
+Archivo: 0175.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 0
+Archivo: 0176.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 0
+Archivo: 0177.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 4
+Archivo: 0178.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 6
+Archivo: 0179.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 4
+Archivo: 0180.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 10
+Archivo: 0181.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 4
+Archivo: 0182.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 5
+Archivo: 0183.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 0
+Archivo: 0184.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 7
+Archivo: 0185.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 8
+Archivo: 0186.txt
+Timestamp: 2025-09-20 18:44:56-0300
+Neutrinos detectados: 9
+Archivo: 0187.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 4
+Archivo: 0188.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 3
+Archivo: 0189.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 1
+Archivo: 0190.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 10
+Archivo: 0191.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 2
+Archivo: 0192.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 2
+Archivo: 0193.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 10
+Archivo: 0194.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 8
+Archivo: 0195.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 10
+Archivo: 0196.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 3
+Archivo: 0197.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 3
+Archivo: 0198.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 8
+Archivo: 0199.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 2
+Archivo: 0200.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 1
+Archivo: 0201.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 2
+Archivo: 0202.txt
+Timestamp: 2025-09-20 18:44:57-0300
+Neutrinos detectados: 4
+Archivo: 0203.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 0
+Archivo: 0204.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 0
+Archivo: 0205.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 2
+Archivo: 0206.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 3
+Archivo: 0207.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 7
+Archivo: 0208.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 2
+Archivo: 0209.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 0
+Archivo: 0210.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 10
+Archivo: 0211.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 7
+Archivo: 0212.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 2
+Archivo: 0213.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 9
+Archivo: 0214.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 4
+Archivo: 0215.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 5
+Archivo: 0216.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 6
+Archivo: 0217.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 10
+Archivo: 0218.txt
+Timestamp: 2025-09-20 18:44:58-0300
+Neutrinos detectados: 7
+Archivo: 0219.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 6
+Archivo: 0220.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 8
+Archivo: 0221.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 4
+Archivo: 0222.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 3
+Archivo: 0223.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 0
+Archivo: 0224.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 9
+Archivo: 0225.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 1
+Archivo: 0226.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 9
+Archivo: 0227.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 1
+Archivo: 0228.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 0
+Archivo: 0229.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 9
+Archivo: 0230.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 4
+Archivo: 0231.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 1
+Archivo: 0232.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 10
+Archivo: 0233.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 6
+Archivo: 0234.txt
+Timestamp: 2025-09-20 18:44:59-0300
+Neutrinos detectados: 1
+Archivo: 0235.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 7
+Archivo: 0236.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 1
+Archivo: 0237.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 7
+Archivo: 0238.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 10
+Archivo: 0239.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 10
+Archivo: 0240.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 7
+Archivo: 0241.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 2
+Archivo: 0242.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 8
+Archivo: 0243.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 3
+Archivo: 0244.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 6
+Archivo: 0245.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 3
+Archivo: 0246.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 8
+Archivo: 0247.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 5
+Archivo: 0248.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 7
+Archivo: 0249.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 6
+Archivo: 0250.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 5
+Archivo: 0251.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 5
+Archivo: 0252.txt
+Timestamp: 2025-09-20 18:45:00-0300
+Neutrinos detectados: 0
+Archivo: 0253.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 0
+Archivo: 0254.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 2
+Archivo: 0255.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 9
+Archivo: 0256.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 10
+Archivo: 0257.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 3
+Archivo: 0258.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 3
+Archivo: 0259.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 8
+Archivo: 0260.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 2
+Archivo: 0261.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 7
+Archivo: 0262.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 0
+Archivo: 0263.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 0
+Archivo: 0264.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 4
+Archivo: 0265.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 2
+Archivo: 0266.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 2
+Archivo: 0267.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 8
+Archivo: 0268.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 3
+Archivo: 0269.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 0
+Archivo: 0270.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 1
+Archivo: 0271.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 8
+Archivo: 0272.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 4
+Archivo: 0273.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 3
+Archivo: 0274.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 8
+Archivo: 0275.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 5
+Archivo: 0276.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 3
+Archivo: 0277.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 6
+Archivo: 0278.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 5
+Archivo: 0279.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 8
+Archivo: 0280.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 4
+Archivo: 0281.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 10
+Archivo: 0282.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 1
+Archivo: 0283.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 8
+Archivo: 0284.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 4
+Archivo: 0285.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 6
+Archivo: 0286.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 6
+Archivo: 0287.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 10
+Archivo: 0288.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 5
+Archivo: 0289.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 10
+Archivo: 0290.txt
+Timestamp: 2025-09-20 18:45:02-0300
+Neutrinos detectados: 9
+Archivo: 0291.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 0
+Archivo: 0292.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 9
+Archivo: 0293.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 9
+Archivo: 0294.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 3
+Archivo: 0295.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 7
+Archivo: 0296.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 5
+Archivo: 0297.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 10
+Archivo: 0298.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 3
+Archivo: 0299.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 5
+Archivo: 0300.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 5
+Archivo: 0301.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 9
+Archivo: 0302.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 1
+Archivo: 0303.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 10
+Archivo: 0304.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 5
+Archivo: 0305.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 8
+Archivo: 0306.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 8
+Archivo: 0307.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 10
+Archivo: 0308.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 2
+Archivo: 0309.txt
+Timestamp: 2025-09-20 18:45:03-0300
+Neutrinos detectados: 3
+Archivo: 0310.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 1
+Archivo: 0311.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 4
+Archivo: 0312.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 0
+Archivo: 0313.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 1
+Archivo: 0314.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 5
+Archivo: 0315.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 0
+Archivo: 0316.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 10
+Archivo: 0317.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 0
+Archivo: 0318.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 0
+Archivo: 0319.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 7
+Archivo: 0320.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 10
+Archivo: 0321.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 4
+Archivo: 0322.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 2
+Archivo: 0323.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 8
+Archivo: 0324.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 4
+Archivo: 0325.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 8
+Archivo: 0326.txt
+Timestamp: 2025-09-20 18:45:04-0300
+Neutrinos detectados: 3
+Archivo: 0327.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 0
+Archivo: 0328.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 6
+Archivo: 0329.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 9
+Archivo: 0330.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 1
+Archivo: 0331.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 3
+Archivo: 0332.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 6
+Archivo: 0333.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 7
+Archivo: 0334.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 6
+Archivo: 0335.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 6
+Archivo: 0336.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 10
+Archivo: 0337.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 0
+Archivo: 0338.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 6
+Archivo: 0339.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 10
+Archivo: 0340.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 0
+Archivo: 0341.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 6
+Archivo: 0342.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 4
+Archivo: 0343.txt
+Timestamp: 2025-09-20 18:45:05-0300
+Neutrinos detectados: 6
+Archivo: 0344.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 1
+Archivo: 0345.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 9
+Archivo: 0346.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 1
+Archivo: 0347.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 10
+Archivo: 0348.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 0
+Archivo: 0349.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 6
+Archivo: 0350.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 5
+Archivo: 0351.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 9
+Archivo: 0352.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 7
+Archivo: 0353.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 4
+Archivo: 0354.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 9
+Archivo: 0355.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 6
+Archivo: 0356.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 10
+Archivo: 0357.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 9
+Archivo: 0358.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 8
+Archivo: 0359.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 8
+Archivo: 0360.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 5
+Archivo: 0361.txt
+Timestamp: 2025-09-20 18:45:06-0300
+Neutrinos detectados: 5
+Archivo: 0362.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 3
+Archivo: 0363.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 6
+Archivo: 0364.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 1
+Archivo: 0365.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 9
+Archivo: 0366.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 8
+Archivo: 0367.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 0
+Archivo: 0368.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 0
+Archivo: 0369.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 6
+Archivo: 0370.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 6
+Archivo: 0371.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 6
+Archivo: 0372.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 1
+Archivo: 0373.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 8
+Archivo: 0374.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 2
+Archivo: 0375.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 8
+Archivo: 0376.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 3
+Archivo: 0377.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 5
+Archivo: 0378.txt
+Timestamp: 2025-09-20 18:45:07-0300
+Neutrinos detectados: 1
+Archivo: 0379.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 4
+Archivo: 0380.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 1
+Archivo: 0381.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 0
+Archivo: 0382.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 8
+Archivo: 0383.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 2
+Archivo: 0384.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 2
+Archivo: 0385.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 10
+Archivo: 0386.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 10
+Archivo: 0387.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 8
+Archivo: 0388.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 8
+Archivo: 0389.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 4
+Archivo: 0390.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 9
+Archivo: 0391.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 3
+Archivo: 0392.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 3
+Archivo: 0393.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 4
+Archivo: 0394.txt
+Timestamp: 2025-09-20 18:45:08-0300
+Neutrinos detectados: 1
+Archivo: 0395.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 9
+Archivo: 0396.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 9
+Archivo: 0397.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 0
+Archivo: 0398.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 5
+Archivo: 0399.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 6
+Archivo: 0400.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 8
+Archivo: 0401.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 9
+Archivo: 0402.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 0
+Archivo: 0403.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 5
+Archivo: 0404.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 2
+Archivo: 0405.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 10
+Archivo: 0406.txt
+Timestamp: 2025-09-20 18:45:09-0300
+Neutrinos detectados: 5
+Archivo: 0407.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 5
+Archivo: 0408.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 8
+Archivo: 0409.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 8
+Archivo: 0410.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 2
+Archivo: 0411.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 10
+Archivo: 0412.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 6
+Archivo: 0413.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 4
+Archivo: 0414.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 2
+Archivo: 0415.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 5
+Archivo: 0416.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 7
+Archivo: 0417.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 4
+Archivo: 0418.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 8
+Archivo: 0419.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 7
+Archivo: 0420.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 1
+Archivo: 0421.txt
+Timestamp: 2025-09-20 18:45:10-0300
+Neutrinos detectados: 3
+Archivo: 0422.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 5
+Archivo: 0423.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 0
+Archivo: 0424.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 3
+Archivo: 0425.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 9
+Archivo: 0426.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 0
+Archivo: 0427.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 6
+Archivo: 0428.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 4
+Archivo: 0429.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 10
+Archivo: 0430.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 10
+Archivo: 0431.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 5
+Archivo: 0432.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 1
+Archivo: 0433.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 0
+Archivo: 0434.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 1
+Archivo: 0435.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 8
+Archivo: 0436.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 0
+Archivo: 0437.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 5
+Archivo: 0438.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 9
+Archivo: 0439.txt
+Timestamp: 2025-09-20 18:45:11-0300
+Neutrinos detectados: 0
+Archivo: 0440.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 9
+Archivo: 0441.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 3
+Archivo: 0442.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 1
+Archivo: 0443.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 0
+Archivo: 0444.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 6
+Archivo: 0445.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 7
+Archivo: 0446.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 2
+Archivo: 0447.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 9
+Archivo: 0448.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 8
+Archivo: 0449.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 9
+Archivo: 0450.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 9
+Archivo: 0451.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 8
+Archivo: 0452.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 6
+Archivo: 0453.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 7
+Archivo: 0454.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 3
+Archivo: 0455.txt
+Timestamp: 2025-09-20 18:45:12-0300
+Neutrinos detectados: 3
+Archivo: 0456.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 1
+Archivo: 0457.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 9
+Archivo: 0458.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 8
+Archivo: 0459.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 9
+Archivo: 0460.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 10
+Archivo: 0461.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 2
+Archivo: 0462.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 2
+Archivo: 0463.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 7
+Archivo: 0464.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 8
+Archivo: 0465.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 3
+Archivo: 0466.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 8
+Archivo: 0467.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 0
+Archivo: 0468.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 8
+Archivo: 0469.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 0
+Archivo: 0470.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 2
+Archivo: 0471.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 1
+Archivo: 0472.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 10
+Archivo: 0473.txt
+Timestamp: 2025-09-20 18:45:13-0300
+Neutrinos detectados: 2
+Archivo: 0474.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 2
+Archivo: 0475.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 0
+Archivo: 0476.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 4
+Archivo: 0477.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 8
+Archivo: 0478.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 9
+Archivo: 0479.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 1
+Archivo: 0480.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 6
+Archivo: 0481.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 0
+Archivo: 0482.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 8
+Archivo: 0483.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 9
+Archivo: 0484.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 8
+Archivo: 0485.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 6
+Archivo: 0486.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 1
+Archivo: 0487.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 0
+Archivo: 0488.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 6
+Archivo: 0489.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 4
+Archivo: 0490.txt
+Timestamp: 2025-09-20 18:45:14-0300
+Neutrinos detectados: 9
+Archivo: 0491.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 4
+Archivo: 0492.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 4
+Archivo: 0493.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 3
+Archivo: 0494.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 2
+Archivo: 0495.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 5
+Archivo: 0496.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 5
+Archivo: 0497.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 9
+Archivo: 0498.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 9
+Archivo: 0499.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 1
+Archivo: 0500.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 10
+Archivo: 0501.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 6
+Archivo: 0502.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 8
+Archivo: 0503.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 7
+Archivo: 0504.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 2
+Archivo: 0505.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 7
+Archivo: 0506.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 1
+Archivo: 0507.txt
+Timestamp: 2025-09-20 18:45:15-0300
+Neutrinos detectados: 9
+Archivo: 0508.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 5
+Archivo: 0509.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 9
+Archivo: 0510.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 5
+Archivo: 0511.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 0
+Archivo: 0512.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 4
+Archivo: 0513.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 9
+Archivo: 0514.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 8
+Archivo: 0515.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 1
+Archivo: 0516.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 6
+Archivo: 0517.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 4
+Archivo: 0518.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 5
+Archivo: 0519.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 1
+Archivo: 0520.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 1
+Archivo: 0521.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 10
+Archivo: 0522.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 6
+Archivo: 0523.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 3
+Archivo: 0524.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 6
+Archivo: 0525.txt
+Timestamp: 2025-09-20 18:45:16-0300
+Neutrinos detectados: 1
+Archivo: 0526.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 10
+Archivo: 0527.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 8
+Archivo: 0528.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 1
+Archivo: 0529.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 3
+Archivo: 0530.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 3
+Archivo: 0531.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 9
+Archivo: 0532.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 7
+Archivo: 0533.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 10
+Archivo: 0534.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 1
+Archivo: 0535.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 0
+Archivo: 0536.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 1
+Archivo: 0537.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 2
+Archivo: 0538.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 10
+Archivo: 0539.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 4
+Archivo: 0540.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 10
+Archivo: 0541.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 1
+Archivo: 0542.txt
+Timestamp: 2025-09-20 18:45:17-0300
+Neutrinos detectados: 5
+Archivo: 0543.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 0
+Archivo: 0544.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 2
+Archivo: 0545.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 10
+Archivo: 0546.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 4
+Archivo: 0547.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 8
+Archivo: 0548.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 5
+Archivo: 0549.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 10
+Archivo: 0550.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 7
+Archivo: 0551.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 10
+Archivo: 0552.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 9
+Archivo: 0553.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 7
+Archivo: 0554.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 5
+Archivo: 0555.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 0
+Archivo: 0556.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 1
+Archivo: 0557.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 4
+Archivo: 0558.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 7
+Archivo: 0559.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 1
+Archivo: 0560.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 9
+Archivo: 0561.txt
+Timestamp: 2025-09-20 18:45:18-0300
+Neutrinos detectados: 10
+Archivo: 0562.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 7
+Archivo: 0563.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 7
+Archivo: 0564.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 6
+Archivo: 0565.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 3
+Archivo: 0566.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 9
+Archivo: 0567.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 1
+Archivo: 0568.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 8
+Archivo: 0569.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 7
+Archivo: 0570.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 8
+Archivo: 0571.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 0
+Archivo: 0572.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 10
+Archivo: 0573.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 4
+Archivo: 0574.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 10
+Archivo: 0575.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 0
+Archivo: 0576.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 10
+Archivo: 0577.txt
+Timestamp: 2025-09-20 18:45:19-0300
+Neutrinos detectados: 10
+Archivo: 0578.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 1
+Archivo: 0579.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 3
+Archivo: 0580.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 4
+Archivo: 0581.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 4
+Archivo: 0582.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 10
+Archivo: 0583.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 3
+Archivo: 0584.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 5
+Archivo: 0585.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 9
+Archivo: 0586.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 8
+Archivo: 0587.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 5
+Archivo: 0588.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 10
+Archivo: 0589.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 6
+Archivo: 0590.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 3
+Archivo: 0591.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 4
+Archivo: 0592.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 10
+Archivo: 0593.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 1
+Archivo: 0594.txt
+Timestamp: 2025-09-20 18:45:20-0300
+Neutrinos detectados: 9
+Archivo: 0595.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 3
+Archivo: 0596.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 0
+Archivo: 0597.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 7
+Archivo: 0598.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 6
+Archivo: 0599.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 6
+Archivo: 0600.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 10
+Archivo: 0601.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 10
+Archivo: 0602.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 4
+Archivo: 0603.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 1
+Archivo: 0604.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 10
+Archivo: 0605.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 9
+Archivo: 0606.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 9
+Archivo: 0607.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 5
+Archivo: 0608.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 9
+Archivo: 0609.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 4
+Archivo: 0610.txt
+Timestamp: 2025-09-20 18:45:21-0300
+Neutrinos detectados: 0
+Archivo: 0611.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 6
+Archivo: 0612.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 5
+Archivo: 0613.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 8
+Archivo: 0614.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 5
+Archivo: 0615.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 8
+Archivo: 0616.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 0
+Archivo: 0617.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 8
+Archivo: 0618.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 8
+Archivo: 0619.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 0
+Archivo: 0620.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 3
+Archivo: 0621.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 9
+Archivo: 0622.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 6
+Archivo: 0623.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 3
+Archivo: 0624.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 8
+Archivo: 0625.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 8
+Archivo: 0626.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 8
+Archivo: 0627.txt
+Timestamp: 2025-09-20 18:45:22-0300
+Neutrinos detectados: 5
+Archivo: 0628.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 9
+Archivo: 0629.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 1
+Archivo: 0630.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 4
+Archivo: 0631.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 1
+Archivo: 0632.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 9
+Archivo: 0633.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 8
+Archivo: 0634.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 9
+Archivo: 0635.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 10
+Archivo: 0636.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 4
+Archivo: 0637.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 10
+Archivo: 0638.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 8
+Archivo: 0639.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 2
+Archivo: 0640.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 7
+Archivo: 0641.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 4
+Archivo: 0642.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 9
+Archivo: 0643.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 3
+Archivo: 0644.txt
+Timestamp: 2025-09-20 18:45:23-0300
+Neutrinos detectados: 3
+Archivo: 0645.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 10
+Archivo: 0646.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 1
+Archivo: 0647.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 1
+Archivo: 0648.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 5
+Archivo: 0649.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 3
+Archivo: 0650.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 4
+Archivo: 0651.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 6
+Archivo: 0652.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 1
+Archivo: 0653.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 6
+Archivo: 0654.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 3
+Archivo: 0655.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 5
+Archivo: 0656.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 4
+Archivo: 0657.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 3
+Archivo: 0658.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 6
+Archivo: 0659.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 6
+Archivo: 0660.txt
+Timestamp: 2025-09-20 18:45:24-0300
+Neutrinos detectados: 10
+Archivo: 0661.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 6
+Archivo: 0662.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 2
+Archivo: 0663.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 5
+Archivo: 0664.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 8
+Archivo: 0665.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 7
+Archivo: 0666.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 0
+Archivo: 0667.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 4
+Archivo: 0668.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 9
+Archivo: 0669.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 5
+Archivo: 0670.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 1
+Archivo: 0671.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 7
+Archivo: 0672.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 2
+Archivo: 0673.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 4
+Archivo: 0674.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 2
+Archivo: 0675.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 7
+Archivo: 0676.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 5
+Archivo: 0677.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 10
+Archivo: 0678.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 7
+Archivo: 0679.txt
+Timestamp: 2025-09-20 18:45:25-0300
+Neutrinos detectados: 10
+Archivo: 0680.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 2
+Archivo: 0681.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 10
+Archivo: 0682.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 8
+Archivo: 0683.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 5
+Archivo: 0684.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 5
+Archivo: 0685.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 1
+Archivo: 0686.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 5
+Archivo: 0687.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 2
+Archivo: 0688.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 6
+Archivo: 0689.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 3
+Archivo: 0690.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 10
+Archivo: 0691.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 3
+Archivo: 0692.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 4
+Archivo: 0693.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 8
+Archivo: 0694.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 10
+Archivo: 0695.txt
+Timestamp: 2025-09-20 18:45:26-0300
+Neutrinos detectados: 7
+Archivo: 0696.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 1
+Archivo: 0697.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 2
+Archivo: 0698.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 3
+Archivo: 0699.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 5
+Archivo: 0700.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 1
+Archivo: 0701.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 9
+Archivo: 0702.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 6
+Archivo: 0703.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 9
+Archivo: 0704.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 3
+Archivo: 0705.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 4
+Archivo: 0706.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 5
+Archivo: 0707.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 7
+Archivo: 0708.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 7
+Archivo: 0709.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 5
+Archivo: 0710.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 0
+Archivo: 0711.txt
+Timestamp: 2025-09-20 18:45:27-0300
+Neutrinos detectados: 2
+Archivo: 0712.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 0
+Archivo: 0713.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 1
+Archivo: 0714.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 6
+Archivo: 0715.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 7
+Archivo: 0716.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 4
+Archivo: 0717.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 8
+Archivo: 0718.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 4
+Archivo: 0719.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 10
+Archivo: 0720.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 0
+Archivo: 0721.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 9
+Archivo: 0722.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 5
+Archivo: 0723.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 5
+Archivo: 0724.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 0
+Archivo: 0725.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 1
+Archivo: 0726.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 5
+Archivo: 0727.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 2
+Archivo: 0728.txt
+Timestamp: 2025-09-20 18:45:28-0300
+Neutrinos detectados: 8
+Archivo: 0729.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 0
+Archivo: 0730.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 1
+Archivo: 0731.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 9
+Archivo: 0732.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 9
+Archivo: 0733.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 2
+Archivo: 0734.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 10
+Archivo: 0735.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 9
+Archivo: 0736.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 10
+Archivo: 0737.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 3
+Archivo: 0738.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 3
+Archivo: 0739.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 5
+Archivo: 0740.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 8
+Archivo: 0741.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 1
+Archivo: 0742.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 7
+Archivo: 0743.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 7
+Archivo: 0744.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 6
+Archivo: 0745.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 0
+Archivo: 0746.txt
+Timestamp: 2025-09-20 18:45:29-0300
+Neutrinos detectados: 7
+Archivo: 0747.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 6
+Archivo: 0748.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 2
+Archivo: 0749.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 0
+Archivo: 0750.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 8
+Archivo: 0751.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 10
+Archivo: 0752.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 1
+Archivo: 0753.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 5
+Archivo: 0754.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 1
+Archivo: 0755.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 10
+Archivo: 0756.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 9
+Archivo: 0757.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 3
+Archivo: 0758.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 8
+Archivo: 0759.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 7
+Archivo: 0760.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 6
+Archivo: 0761.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 8
+Archivo: 0762.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 9
+Archivo: 0763.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 7
+Archivo: 0764.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 1
+Archivo: 0765.txt
+Timestamp: 2025-09-20 18:45:30-0300
+Neutrinos detectados: 1
+Archivo: 0766.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 10
+Archivo: 0767.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 10
+Archivo: 0768.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 2
+Archivo: 0769.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 8
+Archivo: 0770.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 10
+Archivo: 0771.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 5
+Archivo: 0772.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 9
+Archivo: 0773.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 8
+Archivo: 0774.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 9
+Archivo: 0775.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 5
+Archivo: 0776.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 5
+Archivo: 0777.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 4
+Archivo: 0778.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 4
+Archivo: 0779.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 7
+Archivo: 0780.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 10
+Archivo: 0781.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 5
+Archivo: 0782.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 3
+Archivo: 0783.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 9
+Archivo: 0784.txt
+Timestamp: 2025-09-20 18:45:31-0300
+Neutrinos detectados: 9
+Archivo: 0785.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 3
+Archivo: 0786.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 5
+Archivo: 0787.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 9
+Archivo: 0788.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 0
+Archivo: 0789.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 5
+Archivo: 0790.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 5
+Archivo: 0791.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 7
+Archivo: 0792.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 5
+Archivo: 0793.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 2
+Archivo: 0794.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 10
+Archivo: 0795.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 2
+Archivo: 0796.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 7
+Archivo: 0797.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 0
+Archivo: 0798.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 4
+Archivo: 0799.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 7
+Archivo: 0800.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 5
+Archivo: 0801.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 10
+Archivo: 0802.txt
+Timestamp: 2025-09-20 18:45:32-0300
+Neutrinos detectados: 7
+Archivo: 0803.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 5
+Archivo: 0804.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 7
+Archivo: 0805.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 4
+Archivo: 0806.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 10
+Archivo: 0807.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 10
+Archivo: 0808.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 5
+Archivo: 0809.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 2
+Archivo: 0810.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 9
+Archivo: 0811.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 2
+Archivo: 0812.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 4
+Archivo: 0813.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 5
+Archivo: 0814.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 2
+Archivo: 0815.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 0
+Archivo: 0816.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 1
+Archivo: 0817.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 8
+Archivo: 0818.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 0
+Archivo: 0819.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 7
+Archivo: 0820.txt
+Timestamp: 2025-09-20 18:45:33-0300
+Neutrinos detectados: 6
+Archivo: 0821.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 7
+Archivo: 0822.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 2
+Archivo: 0823.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 4
+Archivo: 0824.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 3
+Archivo: 0825.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 0
+Archivo: 0826.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 4
+Archivo: 0827.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 3
+Archivo: 0828.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 9
+Archivo: 0829.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 8
+Archivo: 0830.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 5
+Archivo: 0831.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 8
+Archivo: 0832.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 2
+Archivo: 0833.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 1
+Archivo: 0834.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 5
+Archivo: 0835.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 8
+Archivo: 0836.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 2
+Archivo: 0837.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 3
+Archivo: 0838.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 7
+Archivo: 0839.txt
+Timestamp: 2025-09-20 18:45:34-0300
+Neutrinos detectados: 8
+Archivo: 0840.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 6
+Archivo: 0841.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 0
+Archivo: 0842.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 6
+Archivo: 0843.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 7
+Archivo: 0844.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 10
+Archivo: 0845.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 3
+Archivo: 0846.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 9
+Archivo: 0847.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 10
+Archivo: 0848.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 2
+Archivo: 0849.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 9
+Archivo: 0850.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 3
+Archivo: 0851.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 1
+Archivo: 0852.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 4
+Archivo: 0853.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 7
+Archivo: 0854.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 8
+Archivo: 0855.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 2
+Archivo: 0856.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 3
+Archivo: 0857.txt
+Timestamp: 2025-09-20 18:45:35-0300
+Neutrinos detectados: 10
+Archivo: 0858.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 1
+Archivo: 0859.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 0
+Archivo: 0860.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 5
+Archivo: 0861.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 5
+Archivo: 0862.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 7
+Archivo: 0863.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 9
+Archivo: 0864.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 6
+Archivo: 0865.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 6
+Archivo: 0866.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 6
+Archivo: 0867.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 2
+Archivo: 0868.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 6
+Archivo: 0869.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 0
+Archivo: 0870.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 3
+Archivo: 0871.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 6
+Archivo: 0872.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 3
+Archivo: 0873.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 3
+Archivo: 0874.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 9
+Archivo: 0875.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 8
+Archivo: 0876.txt
+Timestamp: 2025-09-20 18:45:36-0300
+Neutrinos detectados: 7
+Archivo: 0877.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 3
+Archivo: 0878.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 2
+Archivo: 0879.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 8
+Archivo: 0880.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 3
+Archivo: 0881.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 8
+Archivo: 0882.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 0
+Archivo: 0883.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 5
+Archivo: 0884.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 10
+Archivo: 0885.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 1
+Archivo: 0886.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 3
+Archivo: 0887.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 6
+Archivo: 0888.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 8
+Archivo: 0889.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 4
+Archivo: 0890.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 10
+Archivo: 0891.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 6
+Archivo: 0892.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 0
+Archivo: 0893.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 2
+Archivo: 0894.txt
+Timestamp: 2025-09-20 18:45:37-0300
+Neutrinos detectados: 6
+Archivo: 0895.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 4
+Archivo: 0896.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 3
+Archivo: 0897.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 8
+Archivo: 0898.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 7
+Archivo: 0899.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 2
+Archivo: 0900.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 3
+Archivo: 0901.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 3
+Archivo: 0902.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 9
+Archivo: 0903.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 0
+Archivo: 0904.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 10
+Archivo: 0905.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 1
+Archivo: 0906.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 0
+Archivo: 0907.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 10
+Archivo: 0908.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 2
+Archivo: 0909.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 0
+Archivo: 0910.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 8
+Archivo: 0911.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 1
+Archivo: 0912.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 0
+Archivo: 0913.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 6
+Archivo: 0914.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 6
+Archivo: 0915.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 0
+Archivo: 0916.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 1
+Archivo: 0917.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 3
+Archivo: 0918.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 0
+Archivo: 0919.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 0
+Archivo: 0920.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 0
+Archivo: 0921.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 5
+Archivo: 0922.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 5
+Archivo: 0923.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 10
+Archivo: 0924.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 10
+Archivo: 0925.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 0
+Archivo: 0926.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 10
+Archivo: 0927.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 10
+Archivo: 0928.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 0
+Archivo: 0929.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 2
+Archivo: 0930.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 8
+Archivo: 0931.txt
+Timestamp: 2025-09-20 18:45:39-0300
+Neutrinos detectados: 4
+Archivo: 0932.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 6
+Archivo: 0933.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 4
+Archivo: 0934.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 1
+Archivo: 0935.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 9
+Archivo: 0936.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 7
+Archivo: 0937.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 7
+Archivo: 0938.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 9
+Archivo: 0939.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 5
+Archivo: 0940.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 5
+Archivo: 0941.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 9
+Archivo: 0942.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 5
+Archivo: 0943.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 2
+Archivo: 0944.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 10
+Archivo: 0945.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 6
+Archivo: 0946.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 5
+Archivo: 0947.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 8
+Archivo: 0948.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 9
+Archivo: 0949.txt
+Timestamp: 2025-09-20 18:45:40-0300
+Neutrinos detectados: 9
+Archivo: 0950.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 9
+Archivo: 0951.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 9
+Archivo: 0952.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 0
+Archivo: 0953.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 8
+Archivo: 0954.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 0
+Archivo: 0955.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 1
+Archivo: 0956.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 5
+Archivo: 0957.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 4
+Archivo: 0958.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 2
+Archivo: 0959.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 10
+Archivo: 0960.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 9
+Archivo: 0961.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 9
+Archivo: 0962.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 7
+Archivo: 0963.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 2
+Archivo: 0964.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 9
+Archivo: 0965.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 9
+Archivo: 0966.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 1
+Archivo: 0967.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 2
+Archivo: 0968.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 1
+Archivo: 0969.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 3
+Archivo: 0970.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 2
+Archivo: 0971.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 5
+Archivo: 0972.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 7
+Archivo: 0973.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 5
+Archivo: 0974.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 5
+Archivo: 0975.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 2
+Archivo: 0976.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 8
+Archivo: 0977.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 10
+Archivo: 0978.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 10
+Archivo: 0979.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 3
+Archivo: 0980.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 10
+Archivo: 0981.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 7
+Archivo: 0982.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 2
+Archivo: 0983.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 1
+Archivo: 0984.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 4
+Archivo: 0985.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 0
+Archivo: 0986.txt
+Timestamp: 2025-09-20 18:45:42-0300
+Neutrinos detectados: 6
+Archivo: 0987.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 3
+Archivo: 0988.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 10
+Archivo: 0989.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 3
+Archivo: 0990.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 0
+Archivo: 0991.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 8
+Archivo: 0992.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 4
+Archivo: 0993.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 7
+Archivo: 0994.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 3
+Archivo: 0995.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 8
+Archivo: 0996.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 6
+Archivo: 0997.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 3
+Archivo: 0998.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 4
+Archivo: 0999.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 3
+Archivo: 1000.txt
+Timestamp: 2025-09-20 18:45:43-0300
+Neutrinos detectados: 0

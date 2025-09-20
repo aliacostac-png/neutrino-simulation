@@ -1,0 +1,2 @@
+Tiempo total: 58.093527 segundos
+Tiempo promedio por evento: 0.058094 segundos
