@@ -1,0 +1,3 @@
+Archivo: 0913.txt
+Timestamp: 2025-09-20 18:45:38-0300
+Neutrinos detectados: 6

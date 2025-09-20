@@ -1,0 +1,3 @@
+Archivo: 0261.txt
+Timestamp: 2025-09-20 18:45:01-0300
+Neutrinos detectados: 7

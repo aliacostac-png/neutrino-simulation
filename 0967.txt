@@ -1,0 +1,3 @@
+Archivo: 0967.txt
+Timestamp: 2025-09-20 18:45:41-0300
+Neutrinos detectados: 2
